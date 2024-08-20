@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahdiZarrei
 - 👀 I’m interested in game & code & music & exercise
 - 💞️ I’m looking to collaborate on work
-- 📫 You can contact me on Telegram, my ID is rackmans
+- 📫 You can contact me on Telegram, my ID is rakmans
 
 
 <!---
